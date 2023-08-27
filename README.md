@@ -1,1 +1,3 @@
-# My Hugo website to practice working with static websites.
+# My Hugo 
+
+I use the website to practice working with static websites.
